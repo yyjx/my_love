@@ -8,7 +8,7 @@
 
 **[澳门速览](#jump6)**
 
-<span id="jump7"> **澳门半岛**</span>
+**[澳门半岛](#jump7)**
 
 <span id="jump8"> **氹仔岛**</span>
 
@@ -26,7 +26,8 @@
 
 ----------
 
-## > <span id="jump6">   **澳门速览** </span>
+ <span id="jump6"></span>  
+## > **澳门速览** 
 
 ----
 
@@ -44,6 +45,7 @@
  
  *[回到目录]*
 
+<span id="jump7"></span>
 ### - [澳门半岛][7]
  
 <center><img src="http://static.zybuluo.com/yybigbang/k03zn1mhbz93r9dud0brd9bx/100b0p000000fopro4425_R_671_10000_Q90%5B1%5D.jpg" width="600"/></center>
