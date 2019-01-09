@@ -10,20 +10,18 @@
 ## **[澳门速览](#jump6)**
 
 <span id="jump17"></span> 
-### **[澳门半岛](#jump7)**
+        ### **[澳门半岛](#jump7)**
 
 <span id="jump18"></span> 
-### **[氹仔岛](#jump8)**
+        ### **[氹仔岛](#jump8)**
 
 <span id="jump19"></span> 
 ### **[路环岛](#jump9)**
 
 
-----------
 ## **[Tips](#jump10)**
 
 
-----------
 <span id="jump20"></span> 
 ### **[出入境](#jump11)**
 
