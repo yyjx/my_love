@@ -47,7 +47,7 @@
 
 ----
 
-<center><img src="http://static.zybuluo.com/yybigbang/8e1iwf9xe9gltz3a6bzxgys7/timg%5B3%5D.jpg" width="600"/></center>
+<center><img src="http://static.zybuluo.com/yybigbang/8e1iwf9xe9gltz3a6bzxgys7/timg%5B3%5D.jpg" height="500"/></center>
 
 澳门只要分为三部分：1) 澳门半岛 2) 氹仔 3）路环。澳门是个岛，上面的是澳门半岛，而下面则是由氹（dang）仔、路环两个离岛组成。澳门的面积很小（32.8平方公里，总人口65.6万），是世界上人口最稠密的地方之一，也是亚洲人均收入较高的地区。澳门区号+853，官方语言是中文(普通话和粤语)和葡语。 
 
