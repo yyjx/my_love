@@ -68,7 +68,7 @@
 
 
 
-<center><img src="http://static.zybuluo.com/yybigbang/k03zn1mhbz93r9dud0brd9bx/100b0p000000fopro4425_R_671_10000_Q90%5B1%5D.jpg" height="500"/></center>
+<center><img src="http://static.zybuluo.com/yybigbang/k03zn1mhbz93r9dud0brd9bx/100b0p000000fopro4425_R_671_10000_Q90%5B1%5D.jpg" height="300"/></center>
 
 
 
