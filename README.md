@@ -86,7 +86,7 @@
 
 
 
-<center><img src="http://static.zybuluo.com/yybigbang/51ctdbf3cppe2crbqymuhvnz/timg%5B7%5D.jpg" height="500"/></center>
+<center><img src="http://static.zybuluo.com/yybigbang/51ctdbf3cppe2crbqymuhvnz/timg%5B7%5D.jpg" height="400"/></center>
 
 
 
@@ -104,7 +104,7 @@
 
 
 
-<center><img src="http://static.zybuluo.com/yybigbang/uu9xmob5pulx7c6rr52eu5t1/1546704121%281%29.jpg" height="500"/></center>
+<center><img src="http://static.zybuluo.com/yybigbang/uu9xmob5pulx7c6rr52eu5t1/1546704121%281%29.jpg" height="400"/></center>
 
 
 
